@@ -1,6 +1,5 @@
 # HealthSystemAPI
 
-![HealthSystemAPI](/images/api_diagram.png)
 <img width="1440" alt="Screenshot 2024-05-08 at 10 42 24 AM" src="https://github.com/DilshanZarook/HealthSystemAPI/assets/129732701/0b286e8e-e2b2-4d53-9b83-61b044a04e26">
 
 Introduction
