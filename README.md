@@ -14,7 +14,7 @@ The HealthSystemAPI provides a RESTful web service for managing healthcare-relat
 - Store and update medical records.
 
 ## HTTP Methods
-- GET: Retrieve information about patients, doctors, appointments, billings, prescriptions, or medical records.
-- POST: Create new entries for any of the available entities.
-- PUT: Update existing data based on provided IDs.
-- DELETE: Remove existing entries from the system.
+- **GET**: Retrieve information about patients, doctors, appointments, billings, prescriptions, or medical records.
+- **POST**: Create new entries for any of the available entities.
+- **PUT**: Update existing data based on provided IDs.
+- **DELETE**: Remove existing entries from the system.
